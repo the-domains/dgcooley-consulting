@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DGCooley Consulting]]></title>
         <description><![CDATA[DGCooley Consulting]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dgcooley-consulting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 19:28:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jan 2016 19:19:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dgcooley-consulting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[UX is Strategy; Not Design. Peter Merholz]]></title>
+            <description><![CDATA[<article><h1>UX is Strategy; Not Design. Peter Merholz</h1><p>Watch the keynote talk from the UX week 2012.</p><img src="https://uideo.net/system/videos/thumbnails/000/000/342/big/363263241_640.jpg?1447587183);"></article>]]></description>
+            <link>https://uideo.net/videos/342</link>
+            <guid isPermaLink="false">3062c369-053d-46af-84de-c29ed5d8655a</guid>
+            <pubDate>Wed, 06 Jan 2016 19:19:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/467b47ce-3173-49b3-95aa-1383d174669d.png" alt="Screenshot of dgcooley.com as of 02 January 2015. " title="">]]></description>
-            <link>undefined3d074af6-6d47-435c-84eb-389f7bba7531/index.html</link>
+            <link>https://thegrid.ai/dgcooley-consulting/3d074af6-6d47-435c-84eb-389f7bba7531/index.html</link>
             <guid isPermaLink="false">3d074af6-6d47-435c-84eb-389f7bba7531</guid>
             <pubDate>Sat, 02 Jan 2016 19:28:43 GMT</pubDate>
         </item>
